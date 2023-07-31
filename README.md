@@ -27,6 +27,7 @@ Solução que busca, através de interação de voz e texto, fazer buscas sobre 
 |--> assets<br>
   &emsp;| --> imagens <br>
   &emsp;| --> videos <br>
+  &emsp;|--> readme.md<br>
 |--> documentos<br>
   &emsp;| --> apresentação <br>
   &emsp;| --> outros <br>
