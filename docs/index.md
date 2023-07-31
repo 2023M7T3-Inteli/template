@@ -16,8 +16,6 @@ Nome do Grupo: X
 
 Integrantes do grupo: Fulano, Beltrano, Ciclano.
 
-[https://github.com/2023M7T3-Inteli/template/blob/main/docs/index.md#entendimento-do-design-sprint-1](https://github.com/2023M7T3-Inteli/template/blob/main/docs/index.md#entendimento-da-arquitetura-do-sistema-sprint-1)
-
 **Conteúdo**
 
 - [Visão Geral do Projeto](#visão-geral-do-projeto)
@@ -26,6 +24,7 @@ Integrantes do grupo: Fulano, Beltrano, Ciclano.
 - [Entendimento da Arquitetura do Sistema](#entendimento-do-design-sprint-1)
 - [Documentação da Construção do Backend da Solução](#documentação-da-construção-do-backend-da-solução-sprint-3)
 - [Documentação da Construção do Frontend da Solução](#documentação-da-construção-do-frontend-da-solução-sprint-4)
+- [Documentação Final do Projeto](#documentação-final-do-projeto-sprint-5)
 - [Referências](#referências)
 - [Apêndice](#apêndice)
 
