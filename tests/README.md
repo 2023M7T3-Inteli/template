@@ -1,5 +1,3 @@
-# Testes de Software
-
 Neste diretório, devem ser inseridos os testes do projeto.
 
 Alguns exemplos são fornecidos a seguir:
