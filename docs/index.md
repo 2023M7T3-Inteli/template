@@ -164,6 +164,22 @@ Preencher seguindo as orientações da Adalove.
 Preencher seguindo as orientações da Adalove.
 
 
+# Documentação Final do Projeto
+
+Preencher seguindo as orientações da Adalove.
+
+A documentação final deve conter:
+
+- Componentes e tecnologias utilizados;
+- Custo de implementação da prova de conceito e estimativa de custo para a solução final;
+- Análise financeira do projeto;
+- Funcionalidades implementadas na prova de conceito;
+- Benefícios entregues pelo projeto;
+- Aperfeiçoamentos futuros possíveis para o projeto;
+- Revisão da visão geral do sistema (arquitetura da integração).
+
+Referencie as revisões e melhorias realizadas nos itens acima.
+
 # Referências
 
 Toda referência citada no texto deverá constar nessa seção, utilizando o padrão de normalização da ABNT - ABNT NBR 10520). As citações devem ser confiáveis e relevantes para o trabalho. São imprescindíveis as citações dos sites de download das ferramentas utilizadas, bem como a citação de algum objeto, música, textura ou outros que não tenham sido produzidos pelo grupo, mas utilizados (mesmo no caso de licenças gratuitas, royalty free ou similares)
